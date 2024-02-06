@@ -1,14 +1,11 @@
 # About Facing Life
 This webpage is a mirror of the original content created and published by Brandon Tauzik on his website at [https://facing.life/](https://facing.life/).
 
-The new IPFS domain:
-* Agregore: ipns://facing-life.testing.sutty.nl
-* ipns://facing-life.testing.sutty.nl
-* https://facing--life-testing-sutty-nl.ipns.ipfs.hypha.coop/
-* ipns://facing.life
-* hyper://facing.life
-* https://facing-life.hyper.hypha.coop/
-* https://facing-life.ipns.ipfs.hypha.coop/
+## Web3 Hosting
+This website can also be found on several peer-to-peer data sharing networks. To access these networks you can
+* Use a gateway and acccess it through the 'regular internet' (in any web browser) at [https://facing-life.hyper.hypha.coop/](https://facing-life.hyper.hypha.coop/) or [https://facing-life.ipns.dweb.link/](https://facing-life.hyper.hypha.coop/)
+ * On IPFS in a Chrome browser using the [IPFS Companion browser extension](https://chromewebstore.google.com/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch) or using [Brave browser](https://brave.com/) using the URL **ipns://facing.life/**
+* On the Hyper network using [Agregore Browser]  at **ipns://facing.life/**
  
 
 ## Staging Website
