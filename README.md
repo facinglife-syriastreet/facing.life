@@ -4,8 +4,8 @@ This webpage is a mirror of the original content created and published by Brando
 ## Web3 Hosting
 This website can also be found on several peer-to-peer data sharing networks. To access these networks you can
 * Use a gateway and acccess it through the 'regular internet' (in any web browser) at [https://facing-life.hyper.hypha.coop/](https://facing-life.hyper.hypha.coop/) or [https://facing-life.ipns.dweb.link/](https://facing-life.hyper.hypha.coop/)
- * On IPFS in a Chrome browser using the [IPFS Companion browser extension](https://chromewebstore.google.com/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch) or using [Brave browser](https://brave.com/) using the URL **ipns://facing.life/**
-* On the Hyper network using [Agregore Browser]  at **ipns://facing.life/**
+* On IPFS in a Chrome browser using the [IPFS Companion browser extension](https://chromewebstore.google.com/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch) or using [Brave browser](https://brave.com/) using the address **ipns://facing.life/**
+* On the Hyper network using [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser/releases) at **hyper://facing.life/**
  
 
 ## Staging Website
