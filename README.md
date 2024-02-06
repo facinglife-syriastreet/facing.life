@@ -8,6 +8,9 @@ This website can also be found on several peer-to-peer data sharing networks. To
 * On the Hyper network using [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser/releases) at **hyper://facing.life/**
  
 
+## Archives
+Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. You can view the registration records of the of the [main](https://bafkreicbz5uixyz6vmshsggonbscomifdwyogp47uwkt3e5iegs4kitrb4.ipfs.w3s.link/) and [nov-16](https://bafybeia7x4id7bgmfypeot7p5kqdrhqe2bmgdqn2jmtuzaixxe7g5c4cb4.ipfs.w3s.link/facing-life-nov-16-2023-12-14T17-19-05Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/facing.life](https://github.com/link-rot-project/facing.life). The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi](https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi)
+
 ## Staging Website
 [https://facing-life.testing.sutty.nl/](https://facing-life.testing.sutty.nl/)
 
