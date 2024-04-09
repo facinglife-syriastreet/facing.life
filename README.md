@@ -6,10 +6,17 @@ This website can also be found on several peer-to-peer data sharing networks. To
 * Use a gateway and acccess it through the 'regular internet' (in any web browser) at [https://facing-life.hyper.hypha.coop/](https://facing-life.hyper.hypha.coop/) or [https://facing-life.ipns.dweb.link/](https://facing-life.hyper.hypha.coop/)
 * On IPFS in a Chrome browser using the [IPFS Companion browser extension](https://chromewebstore.google.com/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch) or using [Brave browser](https://brave.com/) using the address **ipns://facing.life/**
 * On the Hyper network using [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser/releases) at **hyper://facing.life/**
+
+### Backup Repo
+A backup of this git repository has also been created and stored on IPFS as an alternative source for recovery of this project. Access it at [URL]()
  
 
 ## Archives
 Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. You can view the registration records of the of the [main](https://bafkreicbz5uixyz6vmshsggonbscomifdwyogp47uwkt3e5iegs4kitrb4.ipfs.w3s.link/) and [nov-16](https://bafybeia7x4id7bgmfypeot7p5kqdrhqe2bmgdqn2jmtuzaixxe7g5c4cb4.ipfs.w3s.link/facing-life-nov-16-2023-12-14T17-19-05Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/facing.life](https://github.com/link-rot-project/facing.life). The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi](https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi)
+
+If you look at the [main registration manifest](https://bafkreicbz5uixyz6vmshsggonbscomifdwyogp47uwkt3e5iegs4kitrb4.ipfs.w3s.link/), you can see that the 'cid' field of the 'content' piece of the manifest has the same value as the CID that is stored on IPFS.
+
+**IMAGE**  
 
 ## Staging Website
 [https://facing-life.testing.sutty.nl/](https://facing-life.testing.sutty.nl/)
