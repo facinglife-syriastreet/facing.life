@@ -1,5 +1,10 @@
 {
+	"scripts": {
+		"purge": "purgecss -c purgecss.config.js -o ."
+	},
 	"devDependencies": {
-		"hyperlink": "^5.0.4"
+		"hyperlink": "^5.0.4",
+		"prettier": "^3.2.5",
+		"purgecss": "~1.4.2"
 	}
 }
