@@ -210,14 +210,10 @@ body .is-layout-flex > * {
   background-color: var(--wp--preset--color--vivid-red) !important;
 }
 .has-luminous-vivid-orange-background-color {
-  background-color: var(
-    --wp--preset--color--luminous-vivid-orange
-  ) !important;
+  background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
 }
 .has-luminous-vivid-amber-background-color {
-  background-color: var(
-    --wp--preset--color--luminous-vivid-amber
-  ) !important;
+  background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
 }
 .has-light-green-cyan-background-color {
   background-color: var(--wp--preset--color--light-green-cyan) !important;
@@ -250,9 +246,7 @@ body .is-layout-flex > * {
   border-color: var(--wp--preset--color--vivid-red) !important;
 }
 .has-luminous-vivid-orange-border-color {
-  border-color: var(
-    --wp--preset--color--luminous-vivid-orange
-  ) !important;
+  border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
 }
 .has-luminous-vivid-amber-border-color {
   border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
@@ -298,9 +292,7 @@ body .is-layout-flex > * {
   ) !important;
 }
 .has-cool-to-warm-spectrum-gradient-background {
-  background: var(
-    --wp--preset--gradient--cool-to-warm-spectrum
-  ) !important;
+  background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
 }
 .has-blush-light-purple-gradient-background {
   background: var(--wp--preset--gradient--blush-light-purple) !important;

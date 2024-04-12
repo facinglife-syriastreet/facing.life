@@ -526,9 +526,7 @@ input[type="submit"]:focus {
   -js-display: flex;
   display: flex;
 }
-.ast-primary-menu-disabled
-  .main-header-bar
-  .ast-masthead-custom-menu-items {
+.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items {
   flex: unset;
 }
 .ast-desktop
@@ -536,11 +534,7 @@ input[type="submit"]:focus {
   > .menu-item
   > .astra-full-megamenu-wrapper,
 .ast-desktop .astra-menu-animation-slide-up > .menu-item > .sub-menu,
-.ast-desktop
-  .astra-menu-animation-slide-up
-  > .menu-item
-  > .sub-menu
-  .sub-menu {
+.ast-desktop .astra-menu-animation-slide-up > .menu-item > .sub-menu .sub-menu {
   opacity: 0;
   visibility: hidden;
   transform: translateY(0.5em);
@@ -562,18 +556,12 @@ input[type="submit"]:focus {
   .astra-menu-animation-slide-up
   > .menu-item.focus
   > .astra-full-megamenu-wrapper,
-.ast-desktop
-  .astra-menu-animation-slide-up
-  > .menu-item.focus
-  > .sub-menu,
+.ast-desktop .astra-menu-animation-slide-up > .menu-item.focus > .sub-menu,
 .ast-desktop
   .astra-menu-animation-slide-up
   > .menu-item:hover
   > .astra-full-megamenu-wrapper,
-.ast-desktop
-  .astra-menu-animation-slide-up
-  > .menu-item:hover
-  > .sub-menu {
+.ast-desktop .astra-menu-animation-slide-up > .menu-item:hover > .sub-menu {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);
@@ -624,18 +612,12 @@ input[type="submit"]:focus {
   .astra-menu-animation-slide-down
   > .menu-item.focus
   > .astra-full-megamenu-wrapper,
-.ast-desktop
-  .astra-menu-animation-slide-down
-  > .menu-item.focus
-  > .sub-menu,
+.ast-desktop .astra-menu-animation-slide-down > .menu-item.focus > .sub-menu,
 .ast-desktop
   .astra-menu-animation-slide-down
   > .menu-item:hover
   > .astra-full-megamenu-wrapper,
-.ast-desktop
-  .astra-menu-animation-slide-down
-  > .menu-item:hover
-  > .sub-menu {
+.ast-desktop .astra-menu-animation-slide-down > .menu-item:hover > .sub-menu {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);
@@ -660,11 +642,7 @@ input[type="submit"]:focus {
   > .menu-item
   > .astra-full-megamenu-wrapper,
 .ast-desktop .astra-menu-animation-fade > .menu-item > .sub-menu,
-.ast-desktop
-  .astra-menu-animation-fade
-  > .menu-item
-  > .sub-menu
-  .sub-menu {
+.ast-desktop .astra-menu-animation-fade > .menu-item > .sub-menu .sub-menu {
   opacity: 0;
   visibility: hidden;
   transition: opacity ease-in-out 0.3s;
