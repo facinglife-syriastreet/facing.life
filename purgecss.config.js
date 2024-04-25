@@ -1,6 +1,6 @@
 module.exports = {
-  content: ['./index.html'],
-  css: ['./index.css'],
+  content: ['./credits/index.html'],
+  css: ['./credits/index.css'],
   whitelist: [
     'dialog-prevent-scroll',
     'elementor-1247',

@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"purge": "purgecss -c purgecss.config.js -o ."
+		"purge": "purgecss -c purgecss.config.js -o credits/"
 	},
 	"devDependencies": {
 		"hyperlink": "^5.0.4",
