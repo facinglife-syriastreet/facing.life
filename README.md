@@ -17,12 +17,23 @@ This website can also be found on several peer-to-peer data sharing networks. To
     * https://cloudflare-ipfs.com/ipns/facing.life/ (IPFS gateway operated by CloudFlare)
     * https://facing-life.hyper.hypha.coop/ (Hypercore gateway operated by Hypha)
 
- 
 
 ## Archives
-Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. You can view the registration records of the of the [main](https://bafkreicbz5uixyz6vmshsggonbscomifdwyogp47uwkt3e5iegs4kitrb4.ipfs.w3s.link/) and [nov-16](https://bafybeia7x4id7bgmfypeot7p5kqdrhqe2bmgdqn2jmtuzaixxe7g5c4cb4.ipfs.w3s.link/facing-life-nov-16-2023-12-14T17-19-05Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/facing.life](https://github.com/link-rot-project/facing.life). 
+Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. 
+
+**Registration Records**
+
+You can view the registration records of the of the [main](https://bafkreicbz5uixyz6vmshsggonbscomifdwyogp47uwkt3e5iegs4kitrb4.ipfs.w3s.link/) and [nov-16](https://bafybeia7x4id7bgmfypeot7p5kqdrhqe2bmgdqn2jmtuzaixxe7g5c4cb4.ipfs.w3s.link/facing-life-nov-16-2023-12-14T17-19-05Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/facing.life](https://github.com/link-rot-project/facing.life). 
+
+**Archive Copies of Repos**:
+* [facing-life-nov-16.zip](https://bafkreifa3n2n2qhsmykjwjayir3gukffwvh5edjfjp63v6vfhn6uko6yty.ipfs.w3s.link/)
+* [facing-life-main.zip](https://bafybeia7x4id7bgmfypeot7p5kqdrhqe2bmgdqn2jmtuzaixxe7g5c4cb4.ipfs.w3s.link/facing-life-nov-16-2023-12-14T17-19-05Z.zip.json)
+
+
 
 The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi](https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi)
+
+^ This is a zip of the Git Repo that can be downloaded, and put onto any static website hosting service
 
 
 **Copies of the ‘Final’ (April 2024) GitHub Repos for each Website on IPFS**: https://bafybeia5twhdk6ozple5shdmzmdymjvfjqk2ij3xw33dtgoz6uiikplvgq.ipfs.w3s.link/:
