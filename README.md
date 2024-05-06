@@ -4,7 +4,7 @@ This webpage is a mirror of the original content created and published by Brando
 In this project, we sought to prototype a way to preserve and protect journalist’s work and portfolio from link rot.  Link rot refers to the phenomenon in which hyperlinks or URLs on the internet become broken or inaccessible over time. 
 
 ## Web3 Hosting
-This website can also be found on several peer-to-peer data sharing networks. To access these networks you can
+This website can also be found on several peer-to-peer data sharing networks. To access these networks you can:
 * Use a gateway and acccess it through the 'regular internet' (in any web browser) at [https://facing-life.hyper.hypha.coop/](https://facing-life.hyper.hypha.coop/) or [https://facing-life.ipns.dweb.link/](https://facing-life.hyper.hypha.coop/)
 * On IPFS in a Chrome browser using the [IPFS Companion browser extension](https://chromewebstore.google.com/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch) or using [Brave browser](https://brave.com/) using the address **ipns://facing.life/**
 * On the Hyper network using [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser/releases) at **hyper://facing.life/**
@@ -33,11 +33,11 @@ You can view the registration records of the of the [main](https://bafkreicbz5ui
 
 The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi](https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi)
 
+
+**Copies of the ‘Final’ (April 2024) GitHub Repos for each Website on IPFS**: https://bafybeia5twhdk6ozple5shdmzmdymjvfjqk2ij3xw33dtgoz6uiikplvgq.ipfs.w3s.link/
+
+
 ^ This is a zip of the Git Repo that can be downloaded, and put onto any static website hosting service
-
-
-**Copies of the ‘Final’ (April 2024) GitHub Repos for each Website on IPFS**: https://bafybeia5twhdk6ozple5shdmzmdymjvfjqk2ij3xw33dtgoz6uiikplvgq.ipfs.w3s.link/:
-
 
 ### Staging Website
 [https://facing-life.testing.sutty.nl/](https://facing-life.testing.sutty.nl/)
