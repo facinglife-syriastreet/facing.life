@@ -28,7 +28,7 @@ The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqa
 **Copies of the ‘Final’ (April 2024) GitHub Repos for each Website on IPFS**: https://bafybeia5twhdk6ozple5shdmzmdymjvfjqk2ij3xw33dtgoz6uiikplvgq.ipfs.w3s.link/:
 
 
-## Staging Website
+### Staging Website
 [https://facing-life.testing.sutty.nl/](https://facing-life.testing.sutty.nl/)
 
 # Project Summary
@@ -37,7 +37,7 @@ The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqa
 This project aims to explore ways that a journalist can preserve the content they’ve created, either for an established publication or self-published. In addition to their own work, this could also include the preservation of subsequent articles that cover the journalist’s work (ex: to show impact or earned media).
 
 ### Challenge
-As an independent journalist, Brandon’s work is often vulnerable to disappearing from the internet. Even when published by a large outlet like the Red Cross, the maintenance and hosting of his work became an issue in the long term, and to ensure this work is still available, he now self-hosts a public website. Work published by the SF Chronicle was only available in print and/or paywalled, adding similar issues to the sharing and coverage of his work. 
+As an independent journalist, Brandon’s work is often vulnerable to disappearing from the internet. The maintenance and hosting of his work became an issue in the long term as he has to pay to maintain and take the time to update all the platforms his work is hosted on. To ensure this work is still available, he now self-hosts may public websites. Some work published by those who comissioned Brandon was only available in print and/or paywalled, adding similar issues to the sharing and coverage of his work. 
 Brandon is looking to explore options to capture and preserve the work published on websites that are subject to disappearance or ‘Link Rot’, as well as find solutions that are less costly than the current self-hosting solution, that can be easily used by other creators that are also looking to solve the link rot problem.
 
 ### Proposed Solution
