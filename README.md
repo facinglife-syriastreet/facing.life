@@ -12,7 +12,7 @@ This website can also be found on several peer-to-peer data sharing networks. To
 ### Facing Life Links
 
 * IPFS/ IPNS: [ipns://facing.life/](ipns://facing.life/)
-* Hypercore: [hyper://facing.life/](ipns://facing.life/) 
+* Hypercore: [hyper://facing.life/](ipns://facing.life/)
 * Accessed through a gateway: 
     * https://cloudflare-ipfs.com/ipns/facing.life/ (IPFS gateway operated by CloudFlare)
     * https://facing-life.hyper.hypha.coop/ (Hypercore gateway operated by Hypha)
