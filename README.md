@@ -25,9 +25,10 @@ Archives of this zip of this Github repo have been registered on the Filecoin di
 
 You can view the registration records of the of the [main](https://bafkreicbz5uixyz6vmshsggonbscomifdwyogp47uwkt3e5iegs4kitrb4.ipfs.w3s.link/) and [nov-16](https://bafybeifnd52fj6a7zy6s4be5gdzwvrfroava6h5tse3plargwfzzewvq64.ipfs.w3s.link/) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/facing.life](https://github.com/link-rot-project/facing.life). 
 
-**Archive Registration Records**:
-* [facing-life-main]()
-* [facing-life-nov-16](https://bafybeia7x4id7bgmfypeot7p5kqdrhqe2bmgdqn2jmtuzaixxe7g5c4cb4.ipfs.w3s.link/facing-life-nov-16-2023-12-14T17-19-05Z.zip.json)
+**Archive zip Files**:
+You can download, locally serve, and inspect these files to see what the registered versions look like and compare changes against published changes
+* [facing-life-main.zip]()
+* [facing-life-nov-16.zip](https://bafybeifnd52fj6a7zy6s4be5gdzwvrfroava6h5tse3plargwfzzewvq64.ipfs.w3s.link/)
 
 
 
